@@ -2,7 +2,7 @@
 
 This API provides a simple login and register.
 
-## Description
+## 👉 Description
 
 This API can be used as an example or template for a register and login with also a JWT token.
 
@@ -12,7 +12,7 @@ This API can be used as an example or template for a register and login with als
 * [Mongo DB](https://www.mongodb.com/)
 * JavaScript
 
-## Getting Started
+## 👉 Getting Started
 
 ### Dependencies
 
@@ -51,9 +51,17 @@ npm i
 node app.js
 ```
 
-## Author
+## 👉 Author
 
 [Theo Klautke](https://github.com/tklautke)
 
 * Instagram: [@tkl.lkt](https://www.instagram.com/tkl.lkt/)
 * Twitter: [@Th3oK](https://twitter.com/Th3oK)
+
+<br>
+<br>
+<br>
+
+
+I hope this could help you 😀 <br>
+✉️ For more info or feedbackfeel free to contact me ✉️
