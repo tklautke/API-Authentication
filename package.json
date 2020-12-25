@@ -1,0 +1,25 @@
+{
+  "name": "authendication-api",
+  "version": "1.0.0",
+  "description": "This API can be used as an example or template for a register and login with also a JWT token.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tklautke/API-Authentication.git"
+  },
+  "author": "tklautke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tklautke/API-Authentication/issues"
+  },
+  "homepage": "https://github.com/tklautke/API-Authentication#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
