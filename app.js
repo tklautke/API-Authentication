@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const monggose = require('mongoose');
+const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const bodyParser = require('body-parser')
 
@@ -19,7 +19,7 @@ app.use('/api/user', authRoute);
 dotenv.config();
 
 //Connect to Database
-monggose.connect(process.env.DB_CONNECT,
+mongoose.connect(process.env.DB_CONNECT,
     {useNewUrlParser: true, useUnifiedTopology: true}, () => {
         console.log('Connected to Database')
     })
