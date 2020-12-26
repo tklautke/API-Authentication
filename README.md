@@ -6,7 +6,8 @@ This API provides a simple login and register.
 
 This API can be used as an example or template for a register and login with also a JWT token.
 
-### Technologies 
+### Technologies
+
 * [Node.js](https://nodejs.org/en/)
 * [NPM](https://www.npmjs.com/)
 * [Mongo DB](https://www.mongodb.com/)
