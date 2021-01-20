@@ -64,4 +64,4 @@ node app.js
 
 
 I hope this could help you 😀 <br>
-✉️ For more info or feedbackfeel free to contact me ✉️
+✉️ For more info or feedback feel free to contact me ✉️
