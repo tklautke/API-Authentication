@@ -12,6 +12,7 @@ This API can be used as an example or template for a register and login with als
 * [NPM](https://www.npmjs.com/)
 * [Mongo DB](https://www.mongodb.com/)
 * JavaScript
+* [Docker](https://www.docker.com/) 
 
 ## Getting Started
 
@@ -19,6 +20,8 @@ This API can be used as an example or template for a register and login with als
 
 * Node.js
 * NPM
+* Docker 
+* Docker-compose
 
 ### Installing
 
@@ -40,10 +43,22 @@ node -v
 npm -v
 ```
 
+* Check docker-compose version
+
+```
+docker-compose -v
+```
+
 * Install all Node.js packages
 
 ```
 npm i
+```
+
+* Running the MongoDB in docker
+
+```
+docker-compose up
 ```
 
 * Start API
